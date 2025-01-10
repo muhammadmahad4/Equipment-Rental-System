@@ -18,14 +18,14 @@ The system implements interfaces to set contracts for various commands, allowing
 
 ## Installation
 1. Ensure that the Java Development Kit (JDK) is installed on your machine.
-2. Clone the repository:
-   ```
-   git clone https://github.com/muhammadmahad4/Equipment-Rental-System.git
-   ```
+2. Clone the repository using:
+```
+git clone https://github.com/muhammadmahad4/Equipment-Rental-System.git
+```
 3. Navigate to the project directory:
-   ```
-   cd Equipment-Rental-System
-   ```
+```
+cd Equipment-Rental-System
+```
 
 ## Usage
 To run the application, compile the Java files and execute the `Main` class:
