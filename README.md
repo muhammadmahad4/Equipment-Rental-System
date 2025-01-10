@@ -20,7 +20,7 @@ The system implements interfaces to set contracts for various commands, allowing
 1. Ensure that the Java Development Kit (JDK) is installed on your machine.
 2. Clone the repository:
    ```
-   git clone <https://github.com/muhammadmahad4/Equipment-Rental-System.git>
+   git clone https://github.com/muhammadmahad4/Equipment-Rental-System.git
    ```
 3. Navigate to the project directory:
    ```
