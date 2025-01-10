@@ -1,5 +1,3 @@
-
-```markdown
 # Project Title
 Equipment-Rental-System
 
